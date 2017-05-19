@@ -1,5 +1,5 @@
 package test;
 
 public class QuizTable {
-	public static String[] quiz = new String[]{"ÇÇÄ«Ãò","¶óÀÌÃò","ÆÄÀÌ¸®","²¿ºÏÀÌ","¹öÅÍÇ®","¾ßµµ¶õ","ÇÇÁÔÅõ","¶Ç°¡½º"};
+	public static String[] quiz = new String[]{"í”¼ì¹´ì¸„","ì´ëŸ°ì´ëŸ°""ë¼ì´ì¸„","íŒŒì´ë¦¬","ê¼¬ë¶ì´","ë²„í„°í’€","ì•¼ë„ë€","í”¼ì£¤íˆ¬","ë˜ê°€ìŠ¤"};
 }
